@@ -64,7 +64,7 @@ Beyond the EDA, this notebook also demonstrates two simple content-based models:
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Shre1100/Mini-Project-Netflix-Data-Analysis.git)
+    git clone [https://github.com/Shre1100/Mini-Project-Netflix-Data-Analysis.git](https://github.com/Shre1100/Mini-Project-Netflix-Data-Analysis.git)
     ```
 2.  Navigate to the directory:
     ```sh
